@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b13877a-9e17-48aa-93fd-21a34cbcdc2d": {
+      "ProjectGuid": "7b13877a-9e17-48aa-93fd-21a34cbcdc2d",
+      "DisplayName": "Vidly",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
